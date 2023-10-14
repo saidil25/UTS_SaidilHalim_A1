@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/login"
+        android:text="Login"
+        android:textSize="23dp"
+        android:layout_marginTop="200dp"
+        android:layout_marginBottom="50dp"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="@font/poppins_bold"
+        />
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/username"
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/round_text"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/login"
+        android:hint="Username"
+        android:fontFamily="@font/poppins_regular"
+        android:layout_marginBottom="20dp"
+        android:textColor="@color/abu"
+        android:paddingLeft="25dp"/>
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/pasword"
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/round_text"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/username"
+        android:hint="Password"
+        android:fontFamily="@font/poppins_regular"
+        android:textColor="@color/abu"
+        android:layout_marginBottom="10dp"
+        android:paddingLeft="25dp"/>
+
+    <CheckBox
+        android:id="@+id/checkbox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/pasword"
+        android:layout_marginBottom="80dp"
+        android:fontFamily="@font/poppins_regular"
+        android:textSize="10sp"
+        android:layout_marginLeft="35dp"
+        android:text="Remember me                                               forgot password"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/tombol"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:background="@drawable/button_shape"
+        android:fontFamily="@font/poppins_bold"
+        android:text="Login"
+        android:textColor="@color/white"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="15dp"
+        android:layout_below="@id/checkbox"/>
+
+
+
+</RelativeLayout>

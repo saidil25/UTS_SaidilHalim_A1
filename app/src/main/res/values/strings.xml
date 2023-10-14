@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">UTS</string>
+    <array name="judul">
+        <item>EXPEND4DABLES</item>
+        <item>THE BURIAL</item>
+        <item>MISSION IMPOSIBLE</item>
+        <item>JURIG </item>
+        <item>GHOOSEBUMP</item>
+        <item>JURIG SIEN</item>
+        <item>HIDEUNG</item>
+        <item>KADE AH</item>
+    </array>
+
+    <array name="deskripsi">
+        <item>Berbekal setiap senjata yang bisa mereka peroleh dan keterampilan untuk menggunakannya, The Expendables adalah garis pertahanan terakhir di dunia dan tim yang dipanggil ketika semua opsi lain tidak tersedia.
+            Namun anggota tim baru dengan gaya dan taktik baru akan memberikan “darah baru” arti yang benar-benar baru.
+        </item>
+        <item>Berbekal setiap senjata yang bisa mereka peroleh dan keterampilan untuk menggunakannya, The Expendables adalah garis pertahanan terakhir di dunia dan tim yang dipanggil ketika semua opsi lain tidak tersedia.
+            Namun anggota tim baru dengan gaya dan taktik baru akan memberikan “darah baru” arti yang benar-benar baru.
+        </item>
+        <item>Ethan Hunt dan tim IMF-nya memulai misi mereka yang paling berbahaya: Untuk melacak senjata baru yang menakutkan yang mengancam seluruh umat manusia sebelum jatuh ke tangan yang salah. Dengan kendali masa depan dan nasib dunia yang dipertaruhkan serta kekuatan gelap dari masa lalu
+        </item>
+        <item>Berbekal setiap senjata yang bisa mereka peroleh dan keterampilan untuk menggunakannya, The Expendables adalah garis pertahanan terakhir di dunia dan tim yang dipanggil ketika semua opsi lain tidak tersedia.
+            Namun anggota tim baru dengan gaya dan taktik baru akan memberikan “darah baru” arti yang benar-benar baru.
+        </item>
+        <item>Berbekal setiap senjata yang bisa mereka peroleh dan keterampilan untuk menggunakannya, The Expendables adalah garis pertahanan terakhir di dunia dan tim yang dipanggil ketika semua opsi lain tidak tersedia.
+            Namun anggota tim baru dengan gaya dan taktik baru akan memberikan “darah baru” arti yang benar-benar baru.
+        </item>
+    </array>
+
+    <array name="director">
+        <item>Scott Waugh</item>
+        <item>Margaret Betts</item>
+        <item>Christopher McQuarrie</item>
+        <item>Mike Flanagan</item>
+        <item>Nicholas Stoller</item>
+        <item>Patrik Eklundr</item>
+        <item>David Slade</item>
+        <item>Michael Waldron</item>
+        <item>Daniel Benmayor</item>
+    </array>
+
+    <array name="Bioskop">
+        <item>XXI Jogja City Mall</item>
+        <item>Empire XXI </item>
+        <item>XXI Plaza Ambarukmo</item>
+        <item>CGV Pakuwon Mall</item>
+        <item>Cinepolis Lippo Plaza</item>
+        <item>Sleman City Hall XXI</item>
+        <item>CGV Jwalk Mall</item>
+    </array>
+
+    <array name="Jenis_Seat">
+        <item>Reguler</item>
+        <item>Premium</item>
+        <item>VIP</item>
+        <item>VVIP</item>
+    </array>
+
+    <array name="Bank">
+        <item>BCA</item>
+        <item>BNI</item>
+        <item>BRI</item>
+        <item>MANDIRI</item>
+        <item>JAGO</item>
+    </array>
+
+
+</resources>
